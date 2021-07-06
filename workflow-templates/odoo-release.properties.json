@@ -1,5 +1,5 @@
 {
     "name": "Automatic release for Odoo's modules",
-    "description": "When the `version` key on the `__mainfest__.py` is updated, we compare the latest release and create a new one if necessary.",
+    "description": "Create a new release when the version key on the manifest is upgraded",
     "iconName": "alliantum-isotype-black"
 }
