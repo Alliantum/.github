@@ -1,5 +1,5 @@
 {
     "name": "Automatic release for Odoo's modules",
-    "description": "Create a new release when the version key on the manifest is upgraded",
+    "description": "Check version from manifest and create release if necessary",
     "iconName": "alliantum-isotype-black"
 }
